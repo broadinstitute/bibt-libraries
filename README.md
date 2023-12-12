@@ -18,4 +18,4 @@
 
 ## Deprecated Libraries
 
-- [bibtutils](https://github.com/broadinstitute/bibtutils)
+- [bibtutils](https://github.com/broadinstitute/bibtutils) (deprecated on 2023-12-12)
