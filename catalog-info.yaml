@@ -1,6 +1,6 @@
 ---
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: System
 metadata:
   name: bibt-libraries
   title: "BIBT Libraries"
