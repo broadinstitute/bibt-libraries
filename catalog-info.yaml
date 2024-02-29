@@ -1,0 +1,22 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bibt-libraries
+  title: "BIBT Libraries"
+  description: Blue Team Python Libraries
+  links:
+    - url: https://github.com/broadinstitute/bibt-libraries
+      title: "BIBT Libraries"
+      icon: dashboard
+  tags:
+    - bits
+    - bits-tools
+    - security
+  annotations:
+    github.com/project-slug: broadinstitute/bibt-libraries
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: system
+  owner: bits-blue-team
+  lifecycle: production
